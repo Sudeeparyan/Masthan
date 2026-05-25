@@ -1,0 +1,76 @@
+========================================================================
+LITERATURE REVIEW ANALYSIS REPORT
+MSc AI Thesis — Mastan Vali Shaik (24226807)
+National College of Ireland
+========================================================================
+
+Total papers reviewed: 30
+Year range: 1997 – 2024
+Median publication year: 2020
+
+--- Theme Distribution ---
+  Transformer & LLMs                   7 papers
+  Medical AI / Healthcare              5 papers
+  Medical QA & Dialogue                5 papers
+  RAG Infrastructure                   4 papers
+  LSTM / Sequence Models               3 papers
+  Evaluation Metrics                   3 papers
+  Domain-Adapted NLP                   2 papers
+  Methodology                          1 papers
+
+--- Venue Type Distribution ---
+  Conference                     13 papers
+  Journal                        10 papers
+  Technical Report                4 papers
+  Preprint/Workshop               2 papers
+  Workshop                        1 papers
+
+--- CORE Venue Ranking ---
+  CORE A*    14 papers
+  CORE A      3 papers
+  CORE N/A   13 papers
+
+--- Top 10 Papers by Estimated Citations ---
+   1. Vaswani et al.                 (2017)  ~90,000 cites
+   2. Devlin et al.                  (2019)  ~85,000 cites
+   3. Hochreiter & Schmidhuber       (1997)  ~75,000 cites
+   4. Mikolov et al.                 (2013)  ~55,000 cites
+   5. Brown et al.                   (2020)  ~42,000 cites
+   6. Papineni et al.                (2002)  ~22,000 cites
+   7. Lin                            (2004)  ~18,000 cites
+   8. Touvron et al.                 (2023)  ~13,000 cites
+   9. Radford et al.                 (2019)  ~12,000 cites
+  10. Johnson et al.                 (2016)  ~12,000 cites
+
+--- Papers Added Beyond Original Thesis References ---
+  [ 2] Wirth & Hipe                   (2000)  CRISP-DM
+  [ 3] Papineni et al.                (2002)  BLEU: Automatic MT Evaluation
+  [21] Johnson et al.                 (2016)  MIMIC-III Clinical Database
+  [ 6] Vaswani et al.                 (2017)  Attention Is All You Need
+  [ 7] Johnson et al.                 (2017)  FAISS: Billion-Scale Similarity Search
+  [ 8] Rajkomar et al.                (2018)  Scalable Deep Learning with EHR
+  [10] Devlin et al.                  (2019)  BERT: Bidirectional Transformer Pre-Training
+  [11] Huang et al.                   (2019)  ClinicalBERT: Modelling Clinical Notes
+  [13] Reimers & Gurevych             (2019)  Sentence-BERT: Semantic Sentence Embeddings
+  [14] Ben Abacha & Demner-Fushman    (2019)  MedQuAD: Medical Question Answering
+  [15] Brown et al.                   (2020)  GPT-3: Few-Shot Language Learners
+  [16] Lewis et al.                   (2020)  RAG for Knowledge-Intensive NLP
+  [17] Guu et al.                     (2020)  REALM: Retrieval-Augmented LM Pre-Training
+  [18] Lee et al.                     (2020)  BioBERT: Biomedical Language Representation
+  [19] Sherstinsky                    (2020)  Fundamentals of RNN and LSTM Networks
+  [25] Huang et al.                   (2021)  Knowledge Graph QA for Medical Domain
+  [23] Thoppilan et al.               (2022)  LaMDA: Language Models for Dialogue
+  [26] Li et al.                      (2023)  ChatDoctor: Medical LLM Fine-Tuning
+  [28] Touvron et al.                 (2023)  LLaMA: Open Efficient Foundation LMs
+
+--- Figures Generated ---
+  LR1_publication_timeline.png   — Stacked bar timeline 1997–2024
+  LR2_theme_distribution.png     — Pie + bar chart by theme
+  LR3_venue_distribution.png     — Grouped bar by venue type & theme
+  LR4_citation_impact.png        — Scatter: year vs citations (log)
+  LR5_theme_year_heatmap.png     — Heatmap theme × year
+  LR6_paradigm_comparison_table.png — LSTM vs RAG vs Hybrid table
+  LR7_core_rank_distribution.png — CORE ranking bar chart
+  LR8_research_gap_roadmap.png   — Research gap & contribution roadmap
+
+========================================================================

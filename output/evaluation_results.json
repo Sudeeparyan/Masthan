@@ -1,0 +1,32 @@
+{
+  "LSTM Only": {
+    "ROUGE-1": 0.3435,
+    "ROUGE-L": 0.2611,
+    "BLEU-1": 0.2656,
+    "BLEU-2": 0.1858,
+    "Avg Time (ms)": 7.96,
+    "Personalization": 0.016,
+    "Completeness": 0.1966,
+    "Composite": 0.1682
+  },
+  "Gemini Only": {
+    "ROUGE-1": 0.2295,
+    "ROUGE-L": 0.1448,
+    "BLEU-1": 0.132,
+    "BLEU-2": 0.0655,
+    "Avg Time (ms)": 2861.86,
+    "Personalization": 0.012,
+    "Completeness": 0.1299,
+    "Composite": 0.1005
+  },
+  "Hybrid (LSTM + Gemini)": {
+    "ROUGE-1": 0.1035,
+    "ROUGE-L": 0.0743,
+    "BLEU-1": 0.053,
+    "BLEU-2": 0.0217,
+    "Avg Time (ms)": 1716.19,
+    "Personalization": 0.004,
+    "Completeness": 0.0852,
+    "Composite": 0.0565
+  }
+}
